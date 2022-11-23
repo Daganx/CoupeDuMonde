@@ -1,0 +1,41 @@
+
+
+body{
+    background-color: grey;
+}
+
+h1,h2{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+td{
+    height: 50px;
+    width: 250px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.imgStars{
+    height: 15px;
+    width: 15px;
+}
+
+.check{
+    color: gold;
+}
+
+#modal{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.displayNone{
+    display: none !important;
+}
